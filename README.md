@@ -1,2 +1,2 @@
-# snake-naucse.python.cz
-Moje verze hry Snake
+# snake pro naucse.python.cz
+Ahoj, zde naleznete celý kód hry z tutoriálu.
